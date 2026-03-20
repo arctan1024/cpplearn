@@ -9,6 +9,7 @@
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "MIMode": "gdb",
+            "internalConsoleOptions": "neverOpen",
             "preLaunchTask": "C/C++: gcc build active file"
         }
     ]
